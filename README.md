@@ -1,0 +1,2 @@
+# Text Based Game
+Developed a text-based game using Model View Controller Design Pattern that lets you explore campus and pick up different items via the console.  The game has 5 inventory systems to choose from: Zero Inventory, Infinite Inventory, Finite Inventory, Limited Weight Inventory and Limited Bulkiness Inventory. Using Strategy Design Pattern, the game is also available in a GUI environment.
